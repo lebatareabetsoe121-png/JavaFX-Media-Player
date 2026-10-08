@@ -1,0 +1,12 @@
+   # Maven build files
+   target/
+   
+   # Local playlist file (so your lecturer starts with a clean slate)
+   playlist.txt
+   
+   # VS Code settings
+   .vscode/
+   
+   # OS files
+   .DS_Store
+   Thumbs.db
